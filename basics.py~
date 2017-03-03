@@ -10,5 +10,21 @@ b = 4
 c = 6
 
 a = (b**2+c**2)**0.5
-print 'the length of the hypotenuse is' + a
+
+print a
+
+#question 3
+
+print a, b, c
+
+#question 4
+
+print int(a)
+
+print str(a) + " squared equals " + str(b) + " squared " + str(c) + " squared "
+
+
+
+
+
 

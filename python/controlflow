@@ -1,0 +1,3 @@
+num moons = 10
+    while num moons < 5 
+    print num moons 
